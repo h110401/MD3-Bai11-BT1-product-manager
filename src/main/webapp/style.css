@@ -1,0 +1,12 @@
+fieldset {
+    display: inline-block;
+}
+
+.message {
+    color: green;
+}
+
+table, tr, td {
+    border-collapse: collapse;
+    padding: 5px;
+}
